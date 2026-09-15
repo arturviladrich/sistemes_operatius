@@ -4,15 +4,9 @@
    <link rel="stylesheet" href="css/estils.css">      (des de l'arrel) */
 
 :root {
-  --mari: #122542;
-  --teal: #0c6e73;
-  --ambre: #c9821f;
-  --tinta: #1b2430;
-  --tinta-suau: #57626c;
-  --fons: #f5f6f8;
-  --blanc: #ffffff;
-  --vora: #dde2e7;
-  --radi: 12px;
+  --mari: #003366;  /* Blau fosc elegant per a la capçalera */
+  --teal: #0066cc;  /* Blau mitjà brillant per al degradat i botons */
+  --ambre: #4d94ff; /* Blau clar/cel per als detalls */
 }
 
 * { box-sizing: border-box; }
